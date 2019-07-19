@@ -1,2 +1,3 @@
-# javaweb-samples
-JavaWeb 无框架 案例
+# Maven Template
+
+Maven 项目模板项目
